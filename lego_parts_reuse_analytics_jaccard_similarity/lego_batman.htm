@@ -1,0 +1,244 @@
+<section style="background-color: #FFEB3B; padding: 3rem 2rem; font-family: 'Segoe UI', sans-serif;">
+
+  <!-- Заголовок с изображением -->
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpx6OlwrIze0rDK2Y_DfNJ52XfOx5yGT1WzQ&s" 
+         alt="Batman" style="height: 60px; border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.3);">
+    <h2 style="font-size: 2rem; margin: 0; color: #222;">
+      🧱 Он — Бэтмен. И он везде.
+    </h2>
+  </div>
+
+  <!-- Блок 1: Текст -->
+  <div style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2rem; max-width: 900px;">
+    <p style="font-size: 1.1rem; line-height: 1.6;">
+
+      Заменить ниндзя? Легко.<br>
+      Помочь Мстителям? Только свистни.<br>
+      Полететь на X-wing? Проще, чем выехать на Бэтмобиле.<br>
+      Надеть бороду и отправиться в Средиземье? Уже в пути.<br><br>
+      Когда в LEGO-вселенной нужно объединить всё — <strong>зовут его</strong>. <br><br>
+      💥 <strong>Потому что он Бэтмен!</strong>
+    </p>
+  </div>
+
+  <!-- Блок 2: Гистограмма -->
+  <div style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2rem; max-width: 900px;">
+    <h3 style="margin-top: 0; margin-bottom: 1rem;">📊 Граф пересечений: Batman ↔ Другие франшизы</h3>
+    <style>
+      .batman-graph .bar {
+        height: 22px;
+        background: linear-gradient(to right, #000, #444);
+        margin-bottom: 0.4rem;
+        color: white;
+        padding-left: 0.6rem;
+        line-height: 22px;
+        border-radius: 5px;
+        font-size: 0.9rem;
+      }
+    </style>
+    <div class="batman-graph">
+      <div class="bar" style="width: 90%;">🥷 Ninjago (0.45)</div>
+      <div class="bar" style="width: 85%;">🦸 Avengers (0.42)</div>
+      <div class="bar" style="width: 80%;">🕷️ Spider-Man (0.40)</div>
+      <div class="bar" style="width: 78%;">🌌 Guardians (0.39)</div>
+      <div class="bar" style="width: 72%;">🚀 Star Wars (0.36)</div>
+      <div class="bar" style="width: 68%;">🎬 LEGO Movie (0.34)</div>
+      <div class="bar" style="width: 60%;">💍 LOTR (0.30)</div>
+      <div class="bar" style="width: 52%;">⚡ Harry Potter (0.26)</div>
+    </div>
+    <p style="font-style: italic; font-size: 0.95rem; margin-top: 1rem;">
+      Элементы из сетов Batman особенно часто встречаются в темах Ninjago и Avengers — идеальный сценарий для фанатского кроссовера!
+    </p>
+  </div>
+
+  <!-- Вывод про Бэтмена -->
+<div style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-top: 2rem; max-width: 900px;">
+  <h3 style="margin-top: 0; margin-bottom: 1rem;">📌 Вывод</h3>
+  <p style="font-size: 1.05rem; line-height: 1.6; margin-top: 0;">
+    Если LEGO-вселенные — это граф,  
+    то <strong>Бэтмен</strong> — центральный узел.  
+    Он соединяет больше тем, чем любой другой герой.  
+    И делает это молча.  
+    Без волшебной палочки, без светового меча.  
+    Только с плащом и абсолютной кроссоверной совместимостью.
+  </p>
+</div>
+</section>
+<section style="background-color: #FFEB3B; padding: 3rem 2rem; font-family: 'Segoe UI', sans-serif;">
+
+ <section style="background-color: #FFEB3B; padding: 3rem 2rem; font-family: 'Segoe UI', sans-serif;">
+
+  <h2 style="font-size: 2rem; margin-bottom: 2rem; color: #222;">
+    🧱 LEGO Кроссоверы: Рейтинг франшиз по гибкости
+  </h2>
+
+  <style>
+    /* Общий стиль графиков */
+    .bar-wrapper {
+      background: #f0f0f0;
+      border-radius: 6px;
+      margin-bottom: 0.5rem;
+      overflow: hidden;
+      height: 26px;
+      display: flex;
+      align-items: center;
+      font-size: 0.95rem;
+      position: relative;
+    }
+
+    .bar-label {
+      position: absolute;
+      left: 0.8rem;
+      z-index: 2;
+      color: #111;
+      font-weight: 500;
+    }
+
+    /* Гибкие — зелёные */
+    .flexible-bar .bar-fill {
+      background: linear-gradient(to right, #228B22, #ADFF2F);
+      height: 100%;
+      text-indent: 0.8rem;
+      color: white;
+      line-height: 26px;
+      font-weight: bold;
+      border-radius: 6px 0 0 6px;
+    }
+
+    /* Замкнутые — синие */
+    .locked-bar .bar-fill {
+      background: linear-gradient(to right, #4FC3F7, #B3E5FC);
+      height: 100%;
+      text-indent: 0.8rem;
+      color: white;
+      line-height: 26px;
+      font-weight: bold;
+      border-radius: 6px 0 0 6px;
+    }
+  </style>
+
+  <!-- Гибкие франшизы -->
+  <div style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2rem; max-width: 900px;">
+    <h3 style="margin-top: 0; margin-bottom: 1rem;">🔥 ТОП-10 САМЫХ «ГИБКИХ» ФРАНШИЗ</h3>
+    <div class="flexible-bar">
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 94%;">&nbsp;</div>
+        <span class="bar-label">🦇 Batman (0.47)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 92%;">&nbsp;</div>
+        <span class="bar-label">🥷 Ninjago (0.46)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 90%;">&nbsp;</div>
+        <span class="bar-label">🦸 Avengers (0.45)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 88%;">&nbsp;</div>
+        <span class="bar-label">🐢 TMNT (0.44)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 86%;">&nbsp;</div>
+        <span class="bar-label">🎬 LEGO Movie (0.43)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 84%;">&nbsp;</div>
+        <span class="bar-label">🚀 Star Wars (0.42)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 82%;">&nbsp;</div>
+        <span class="bar-label">🕷️ Spider-Man (0.41)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 80%;">&nbsp;</div>
+        <span class="bar-label">👻 Monster Fighters (0.40)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 78%;">&nbsp;</div>
+        <span class="bar-label">🌌 Guardians (0.39)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 76%;">&nbsp;</div>
+        <span class="bar-label">🏴‍☠️ Pirates (0.38)</span>
+      </div>
+    </div>
+    <p style="font-style: italic; font-size: 0.95rem; margin-top: 1rem;">
+      Эти франшизы чаще других встречаются в наборах вместе.  "Просто замени фигурку" - и вот ваш  Мститель заглянул в локации Пиратов.
+    </p>
+  </div>
+
+  <!-- Замкнутые франшизы -->
+  <div style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 0; max-width: 900px;">
+    <h3 style="margin-top: 0; margin-bottom: 1rem;">❄️ ТОП-10 САМЫХ «ЗАМКНУТЫХ» ФРАНШИЗ</h3>
+    <div class="locked-bar">
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 2%;">&nbsp;</div>
+        <span class="bar-label">👨‍👩‍👦 The Simpsons (0.01)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 10%;">&nbsp;</div>
+        <span class="bar-label">🐭 Mickey Mouse (0.05)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 10%;">&nbsp;</div>
+        <span class="bar-label">💍 Lord of the Rings (0.05)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 12%;">&nbsp;</div>
+        <span class="bar-label">👻 Ghostbusters (0.06)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 14%;">&nbsp;</div>
+        <span class="bar-label">🕌 Prince of Persia (0.07)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 18%;">&nbsp;</div>
+        <span class="bar-label">⚡ Harry Potter (0.09)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 20%;">&nbsp;</div>
+        <span class="bar-label">🐫 Pharaoh's Quest (0.10)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 22%;">&nbsp;</div>
+        <span class="bar-label">🌌 UCS (0.11)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 24%;">&nbsp;</div>
+        <span class="bar-label">🎮 Dimensions (0.12)</span>
+      </div>
+      <div class="bar-wrapper">
+        <div class="bar-fill" style="width: 26%;">&nbsp;</div>
+        <span class="bar-label">🧝 An Unexpected Journey (0.13)</span>
+      </div>
+    </div>
+    <p style="font-style: italic; font-size: 0.95rem; margin-top: 1rem;">
+      Эти франшизы почти не пересекаются с другими. Их миры — автономны и самодостаточны.  
+      Сделать кроссовер с ними — вызов даже для опытного любителя Lego.
+    </p>
+  </div>
+</section>
+<section style="background-color: #FFF9C4; padding: 3rem 2rem; font-family: 'Segoe UI', sans-serif;">
+  <h2 style="font-size: 2rem; color: #222; margin-bottom: 1.5rem;">
+    🔍   Методика анализа деталей LEGO
+  </h2>
+
+  <div style="background: white; border-radius: 16px; padding: 1.5rem; max-width: 900px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <p style="font-size: 1.05rem; line-height: 1.6;">
+      Чтобы сравнивать вселенные LEGO между собой, потребовалась очистка данных от "шума" — всего, что мешало честному сравнению и могло понизить "повторяемость" деталей из набора в набор.
+    </p>
+
+    <ul style="font-size: 1.05rem; line-height: 1.6; margin-left: 1rem; padding-left: 1rem;">
+      <li><strong>Исключены технические категории деталей</strong> — такие как наклейки, запчасти, накладки, покрышки, трубы и т.п. Всего отфильтрованы <code>19 категорий</code>, которые не играют смысловой роли в дизайне наборов.</li>
+      <li><strong>Убраны уникальные детали</strong>, которые встречаются только в одном-единственном наборе. Это детали, созданные специально для одного релиза и не говорящие об общей совместимости тем.</li>
+      <li><strong>Оставлены только «гиковские» темы</strong> — вселенные вроде Star Wars, Batman, Harry Potter и других франшиз, относящихся к поп-культуре и фантастике.</li>
+    </ul>
+
+    <p style="font-size: 1.05rem; line-height: 1.6; margin-top: 1rem;">
+      После фильтрации  построена таблица, где каждой теме соответствовал перечень использованных деталей. Именно на этой базе рассчитывался <strong>индекс Жаккара</strong> — метрика того, насколько сильно две вселенные LEGO пересекаются по реальным деталям.
+    </p>
+  </div>
+</section>
+
+</div>

@@ -1,0 +1,675 @@
+﻿Theme,Theme,Максимум JaccardIndex,Main theme
+Batman,Ninjago,0.6454456415279138,Super Heroes
+Ninjago,Batman,0.6454456415279138,
+Star Wars Clone Wars,Star Wars Episode 3,0.6086330935251798,Star Wars
+Star Wars Episode 3,Star Wars Clone Wars,0.6086330935251798,Star Wars
+Star Wars Clone Wars,Star Wars Episode 4/5/6,0.6027742749054225,Star Wars
+Star Wars Episode 4/5/6,Star Wars Clone Wars,0.6027742749054225,Ultimate Collector Series
+Star Wars Clone Wars,Star Wars Episode 1,0.6002728512960437,Star Wars
+Star Wars Episode 1,Star Wars Clone Wars,0.6002728512960437,Star Wars
+Star Wars Rogue One,Star Wars Rebels,0.5969289827255279,Star Wars
+Star Wars Episode 4/5/6,Star Wars Clone Wars,0.5957918050941307,Star Wars
+Star Wars,Star Wars Episode 4/5/6,0.5883554647599591,
+Star Wars Episode 4/5/6,Star Wars,0.5883554647599591,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 4/5/6,0.5863539445628998,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 4/5/6,0.5863539445628998,Ultimate Collector Series
+Star Wars Episode 1,Star Wars Episode 2,0.5852941176470589,Star Wars
+Star Wars Episode 2,Star Wars Episode 1,0.5852941176470589,Star Wars
+Star Wars Clone Wars,Star Wars Episode 2,0.5834502103786816,Star Wars
+Star Wars Episode 2,Star Wars Clone Wars,0.5834502103786816,Star Wars
+Star Wars,Star Wars Clone Wars,0.5834319526627219,
+Star Wars Clone Wars,Star Wars,0.5834319526627219,Star Wars
+Star Wars Episode 1,Star Wars Episode 4/5/6,0.582360570687419,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 1,0.582360570687419,Ultimate Collector Series
+Star Wars Episode 7,Star Wars Rogue One,0.5781584582441114,Star Wars
+Ninjago,Star Wars,0.5775775775775776,
+Star Wars,Ninjago,0.5775775775775776,
+Batman,Star Wars,0.5764944275582573,Super Heroes
+Star Wars,Batman,0.5764944275582573,
+Star Wars Episode 2,Star Wars Episode 3,0.5714285714285714,Star Wars
+Star Wars Episode 3,Star Wars Episode 2,0.5714285714285714,Star Wars
+Star Wars Episode 1,Star Wars Episode 3,0.566813509544787,Star Wars
+Star Wars Episode 3,Star Wars Episode 1,0.566813509544787,Star Wars
+Star Wars Episode 4/5/6,Star Wars,0.5632054176072234,Ultimate Collector Series
+Batman,Star Wars Episode 4/5/6,0.5577464788732395,Super Heroes
+Star Wars Episode 4/5/6,Batman,0.5577464788732395,Star Wars
+Ninjago,Star Wars Episode 4/5/6,0.5575139146567718,
+Star Wars Episode 4/5/6,Ninjago,0.5575139146567718,Star Wars
+Ninjago,Star Wars Clone Wars,0.5553191489361702,
+Star Wars Clone Wars,Ninjago,0.5553191489361702,Star Wars
+Avengers,Star Wars Rebels,0.5551839464882943,Super Heroes
+Star Wars Rebels,Avengers,0.5551839464882943,Star Wars
+Star Wars Episode 7,Star Wars Rebels,0.5501930501930502,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 1,0.5496098104793757,Star Wars
+Star Wars Episode 2,Star Wars Episode 4/5/6,0.5473684210526316,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 2,0.5473684210526316,Ultimate Collector Series
+Star Wars Episode 3,Star Wars Episode 4/5/6,0.543046357615894,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 3,0.543046357615894,Ultimate Collector Series
+Avengers,Teenage Mutant Ninja Turtles,0.5426229508196722,Super Heroes
+Teenage Mutant Ninja Turtles,Avengers,0.5426229508196722,
+Teenage Mutant Ninja Turtles,The LEGO Movie,0.5424242424242425,
+The LEGO Movie,Teenage Mutant Ninja Turtles,0.5424242424242425,
+Ninjago,The LEGO Movie,0.5421686746987951,
+The LEGO Movie,Ninjago,0.5421686746987951,
+Star Wars,Star Wars Rebels,0.541994750656168,
+Star Wars Rebels,Star Wars,0.541994750656168,Star Wars
+Star Wars,Star Wars Episode 3,0.5380774032459426,
+Star Wars Episode 3,Star Wars,0.5380774032459426,Star Wars
+Star Wars Episode 3,Star Wars Rebels,0.537842190016103,Star Wars
+Star Wars Rebels,Star Wars Episode 3,0.537842190016103,Star Wars
+Star Wars Rebels,Star Wars Clone Wars,0.5376811594202898,Star Wars
+Star Wars,Star Wars Episode 2,0.5345679012345679,
+Star Wars Episode 2,Star Wars,0.5345679012345679,Star Wars
+Avengers,The LEGO Movie,0.532448377581121,Super Heroes
+The LEGO Movie,Avengers,0.532448377581121,
+Batman,The LEGO Movie,0.5320088300220751,Super Heroes
+The LEGO Movie,Batman,0.5320088300220751,
+Batman,Star Wars Clone Wars,0.5307855626326964,Super Heroes
+Star Wars Clone Wars,Batman,0.5307855626326964,Star Wars
+Star Wars,Star Wars Episode 1,0.5285035629453682,
+Star Wars Episode 1,Star Wars,0.5285035629453682,Star Wars
+Star Wars Clone Wars,The LEGO Movie,0.5274151436031331,Star Wars
+The LEGO Movie,Star Wars Clone Wars,0.5274151436031331,
+Super Heroes,Avengers,0.5258764607679466,
+Star Wars Rebels,The LEGO Movie,0.5257575757575758,Star Wars
+Avengers,Star Wars Clone Wars,0.5244072524407253,Super Heroes
+Star Wars Clone Wars,Avengers,0.5244072524407253,Star Wars
+Star Wars Episode 2,Star Wars Rebels,0.5236593059936908,Star Wars
+Star Wars Rebels,Star Wars Episode 2,0.5236593059936908,Star Wars
+Star Wars,The LEGO Movie,0.5195266272189349,
+The LEGO Movie,Star Wars,0.5195266272189349,
+Avengers,Star Wars,0.5144291091593476,Super Heroes
+Star Wars Rebels,Star Wars Episode 1,0.5119760479041916,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 3,0.5118912797281994,Star Wars
+Elves,Super Heroes,0.5095652173913043,
+Super Heroes,Elves,0.5095652173913043,
+Avengers,Ninjago,0.507361268403171,Super Heroes
+Ninjago,Avengers,0.507361268403171,
+Star Wars Episode 4/5/6,Batman,0.507085020242915,Ultimate Collector Series
+Star Wars Episode 4/5/6,Ninjago,0.5059880239520959,Ultimate Collector Series
+Star Wars Episode 4/5/6,Star Wars Episode 2,0.5039106145251396,Star Wars
+Avengers,Batman,0.5034403669724771,Super Heroes
+Batman,Avengers,0.5034403669724771,Super Heroes
+Spider-Man,Teenage Mutant Ninja Turtles,0.5032051282051282,Super Heroes
+Teenage Mutant Ninja Turtles,Spider-Man,0.5032051282051282,
+Batman,Star Wars Episode 1,0.5021598272138229,Super Heroes
+Star Wars Episode 1,Batman,0.5021598272138229,Star Wars
+Super Heroes,Star Wars Rebels,0.5,
+Avengers,Star Wars Episode 1,0.49928057553956834,Super Heroes
+Star Wars Episode 1,Avengers,0.49928057553956834,Star Wars
+Spider-Man,The LEGO Movie,0.4992764109985528,Super Heroes
+Star Wars Rebels,Star Wars Episode 4/5/6,0.49326145552560646,Star Wars
+Teenage Mutant Ninja Turtles,Star Wars Clone Wars,0.49303621169916434,
+Star Wars Episode 3,The LEGO Movie,0.49019607843137253,Star Wars
+Star Wars Episode 1,The LEGO Movie,0.49001331557922767,Star Wars
+The LEGO Movie,Star Wars Episode 1,0.49001331557922767,
+Batman,Teenage Mutant Ninja Turtles,0.4896073903002309,Super Heroes
+Teenage Mutant Ninja Turtles,Batman,0.4896073903002309,
+Spider-Man,Star Wars Episode 1,0.4885386819484241,Super Heroes
+Sorcerer's Stone,Chamber of Secrets,0.4880952380952381,Harry Potter
+Star Wars Episode 2,The LEGO Movie,0.48686030428769017,Star Wars
+The LEGO Movie,Star Wars Episode 2,0.48686030428769017,
+Spider-Man,Avengers,0.4868217054263566,Super Heroes
+Star Wars Episode 4/5/6,The LEGO Movie,0.48501070663811563,Star Wars
+The LEGO Movie,Star Wars Episode 4/5/6,0.48501070663811563,
+Teenage Mutant Ninja Turtles,Star Wars Episode 1,0.48401162790697677,
+Avengers,Star Wars Episode 4/5/6,0.48244473342002603,Super Heroes
+Star Wars Episode 4/5/6,Avengers,0.48244473342002603,Ultimate Collector Series
+Star Wars Episode 4/5/6,The LEGO Movie,0.4823386114494519,Ultimate Collector Series
+Spider-Man,Star Wars Clone Wars,0.48097826086956524,Super Heroes
+Elves,Avengers,0.4798061389337641,
+Elves,The LEGO Movie,0.47767857142857145,
+Ninjago,Star Wars Episode 1,0.4774869109947644,
+Star Wars Episode 1,Ninjago,0.4774869109947644,Star Wars
+Disney Princess,Elves,0.47574626865671643,
+Batman,Star Wars Episode 2,0.47535596933187296,Super Heroes
+Star Wars Episode 2,Batman,0.47535596933187296,Star Wars
+Star Wars Rogue One,Star Wars,0.4747340425531915,Star Wars
+Star Wars Rebels,Ninjago,0.47446083995459704,Star Wars
+Spider-Man,Batman,0.468013468013468,Super Heroes
+Spider-Man,Star Wars Episode 2,0.46755162241887904,Super Heroes
+Monster Fighters,Teenage Mutant Ninja Turtles,0.46702317290552586,
+Star Wars Rogue One,Star Wars Episode 3,0.466996699669967,Star Wars
+Ninjago,Star Wars Episode 3,0.46594594594594596,
+Star Wars Episode 3,Ninjago,0.46594594594594596,Star Wars
+Star Wars Rebels,Batman,0.4633867276887872,Star Wars
+Star Wars Episode 3,Batman,0.4633077765607886,Star Wars
+Teenage Mutant Ninja Turtles,Ninjago,0.46205357142857145,
+Ninjago,Star Wars Episode 2,0.46203208556149733,
+Star Wars Episode 2,Ninjago,0.46203208556149733,Star Wars
+Guardians of the Galaxy,Avengers,0.46055045871559636,Super Heroes
+Teenage Mutant Ninja Turtles,Star Wars Episode 4/5/6,0.4589308996088657,
+Spider-Man,Star Wars Episode 4/5/6,0.4576923076923077,Super Heroes
+Monster Fighters,The LEGO Movie,0.4572784810126582,
+Teenage Mutant Ninja Turtles,Star Wars,0.457002457002457,
+Pirates of the Caribbean,The LEGO Movie,0.4559505409582689,
+Star Wars Episode 7,Star Wars,0.4555256064690027,Star Wars
+Guardians of the Galaxy,Star Wars Rebels,0.4524714828897338,Super Heroes
+Star Wars Episode 4/5/6,Avengers,0.4523281596452328,Star Wars
+Pirates of the Caribbean,Star Wars Episode 3,0.45187601957585644,
+Spider-Man,Star Wars,0.44885679903730447,Super Heroes
+Elves,Ninjago,0.4487034949267193,
+Monster Fighters,Avengers,0.44768439108061747,
+Justice League,Star Wars Rebels,0.44731610337972166,Super Heroes
+Super Heroes,The LEGO Movie,0.4467153284671533,
+Star Wars Rogue One,Star Wars Clone Wars,0.44622093023255816,Star Wars
+Super Heroes,Star Wars,0.4451371571072319,
+Star Wars Rogue One,The LEGO Movie,0.4432515337423313,Star Wars
+Star Wars Episode 7,The LEGO Movie,0.4430379746835443,Star Wars
+Elves,Star Wars,0.4422360248447205,
+Justice League,Avengers,0.44212523719165087,Super Heroes
+Spider-Man,Ninjago,0.44191096634093374,Super Heroes
+Super Heroes,Batman,0.4417808219178082,
+Star Wars Rogue One,Star Wars Episode 1,0.44122137404580153,Star Wars
+Harry Potter,Teenage Mutant Ninja Turtles,0.4375,
+Pirates of the Caribbean,Star Wars Clone Wars,0.43722943722943725,
+Star Wars Episode 7,Star Wars Episode 1,0.4364207221350079,Star Wars
+Elves,Batman,0.4358683314415437,
+Star Wars Episode 7,Star Wars Clone Wars,0.43536404160475484,Star Wars
+Super Heroes,Ninjago,0.4335195530726257,
+Pirates of the Caribbean,Star Wars Episode 1,0.4318181818181818,
+Harry Potter,Spider-Man,0.43112701252236135,
+Goblet of Fire,Fantasy Era,0.4260869565217391,Harry Potter
+Pirates of the Caribbean,Star Wars Episode 2,0.42563291139240506,
+Elves,Star Wars Episode 1,0.4248927038626609,
+Minecraft,Elves,0.42436974789915966,
+SpongeBob SquarePants,Spider-Man,0.42160278745644597,
+Prisoner of Azkaban,Fantasy Era,0.4214876033057851,Harry Potter
+Toy Story,Teenage Mutant Ninja Turtles,0.4209558823529412,
+Elves,Star Wars Clone Wars,0.4206241519674355,
+SpongeBob SquarePants,Star Wars Episode 1,0.42022116903633494,
+Star Wars Rogue One,Star Wars Episode 4/5/6,0.41768707482993195,Star Wars
+Super Heroes,Star Wars Clone Wars,0.4159891598915989,
+Monster Fighters,Star Wars Clone Wars,0.41509433962264153,
+Monster Fighters,Star Wars Episode 1,0.41500765696784075,
+Pirates of the Caribbean,Star Wars,0.4122137404580153,
+Star Wars Rogue One,Ninjago,0.4107551487414188,Star Wars
+Pirates of the Caribbean,Star Wars Episode 4/5/6,0.40945945945945944,
+Star Wars Episode 7,Star Wars Episode 4/5/6,0.4089012517385257,Star Wars
+Star Wars Rogue One,Batman,0.4088269454123113,Star Wars
+The Two Towers,Teenage Mutant Ninja Turtles,0.4066147859922179,The Lord of the Rings
+SpongeBob SquarePants,Star Wars Episode 2,0.4039408866995074,
+Pirates of the Caribbean,Ninjago,0.40386803185437997,
+Disney Princess,Teenage Mutant Ninja Turtles,0.4020618556701031,
+SpongeBob SquarePants,Star Wars Clone Wars,0.39911634756995584,
+Ultimate Collector Series,Star Wars Episode 3,0.39893617021276595,Batman
+Prisoner of Azkaban,Harry Potter,0.3978494623655914,Harry Potter
+Ultimate Collector Series,Star Wars Episode 2,0.3961605584642234,Batman
+The Two Towers,Avengers,0.39587242026266417,The Lord of the Rings
+Star Wars Episode 7,Ninjago,0.39351851851851855,Star Wars
+Toy Story,Star Wars Clone Wars,0.3930722891566265,
+Harry Potter,Star Wars Episode 1,0.39274447949526814,
+Pirates of the Caribbean,Batman,0.3922018348623853,
+Monster Fighters,Batman,0.3920653442240373,
+Goblet of Fire,SpongeBob SquarePants,0.391304347826087,Harry Potter
+Disney,Star Wars Rebels,0.38976377952755903,
+Fantasy Era,Star Wars Episode 3,0.38954468802698144,Castle
+The Fellowship of the Ring,Monster Fighters,0.38860103626943004,The Lord of the Rings
+Star Wars Episode 7,Batman,0.388042203985932,Star Wars
+Disney,Elves,0.3867735470941884,
+Harry Potter,The LEGO Movie,0.3858267716535433,
+Guardians of the Galaxy,The LEGO Movie,0.38571428571428573,Super Heroes
+Elves,Star Wars Episode 4/5/6,0.3848101265822785,
+The Battle of the Five Armies,Teenage Mutant Ninja Turtles,0.38414634146341464,The Hobbit
+Fantasy Era,Star Wars Episode 1,0.37990580847723704,Castle
+Disney Princess,The LEGO Movie,0.37858220211161386,
+SpongeBob SquarePants,The LEGO Movie,0.37846153846153846,
+Fantasy Era,Star Wars Episode 2,0.3778877887788779,Castle
+The Two Towers,The LEGO Movie,0.3775167785234899,The Lord of the Rings
+Monster Fighters,Star Wars Episode 4/5/6,0.37735849056603776,
+Super Heroes,Star Wars Episode 4/5/6,0.3770491803278688,
+Toy Story,Star Wars Episode 1,0.3763779527559055,
+Monster Fighters,Star Wars,0.375,
+Toy Story,The LEGO Movie,0.37381703470031546,
+Justice League,Star Wars Clone Wars,0.3686635944700461,Super Heroes
+Ultimate Collector Series,Star Wars Clone Wars,0.36850152905198774,Batman
+Guardians of the Galaxy,Star Wars,0.3679369250985545,Super Heroes
+Fantasy Era,Star Wars Clone Wars,0.36764705882352944,Castle
+SpongeBob SquarePants,Star Wars Episode 4/5/6,0.3676268861454047,
+Dimensions,Super Heroes,0.3675564681724846,
+Monster Fighters,Ninjago,0.36753100338218714,
+Disney,Avengers,0.36666666666666664,
+Fantasy Era,The LEGO Movie,0.3666146645865835,Castle
+The Two Towers,Star Wars Episode 1,0.36650082918739635,The Lord of the Rings
+The Battle of the Five Armies,Avengers,0.3657587548638132,The Hobbit
+Ultimate Collector Series,Star Wars Episode 1,0.3656957928802589,Batman
+Justice League,The LEGO Movie,0.36541598694942906,Super Heroes
+Prince of Persia,Harry Potter,0.36363636363636365,
+Harry Potter,Star Wars Clone Wars,0.3635036496350365,
+Toy Story,Star Wars Episode 2,0.36288998357963875,
+Guardians of the Galaxy,Star Wars Episode 1,0.36236391912908245,Super Heroes
+Guardians of the Galaxy,Star Wars Clone Wars,0.36123348017621143,Super Heroes
+Ultimate Collector Series,Star Wars Episode 4/5/6,0.3593073593073593,Batman
+An Unexpected Journey,Teenage Mutant Ninja Turtles,0.3592814371257485,The Hobbit
+Justice League,Star Wars Episode 1,0.3592233009708738,Super Heroes
+Fantasy Era,Star Wars Episode 4/5/6,0.3588317107093185,Castle
+Sorcerer's Stone,Harry Potter,0.358695652173913,Harry Potter
+Ultimate Collector Series,The LEGO Movie,0.35864297253634897,Batman
+Superman,Teenage Mutant Ninja Turtles,0.3582995951417004,Super Heroes
+Superman,Avengers,0.3515625,Super Heroes
+Harry Potter,Star Wars Episode 4/5/6,0.3512396694214876,
+Dimensions,Elves,0.34949494949494947,
+An Unexpected Journey,Avengers,0.3474088291746641,The Hobbit
+Toy Story,Star Wars Episode 4/5/6,0.3462603878116344,
+The Desolation of Smaug,Elves,0.34557235421166305,The Hobbit
+Disney,The LEGO Movie,0.3448844884488449,
+Justice League,Star Wars,0.34358288770053474,Super Heroes
+The Battle of the Five Armies,The LEGO Movie,0.3431034482758621,The Hobbit
+The Desolation of Smaug,Teenage Mutant Ninja Turtles,0.3416149068322981,The Hobbit
+Dimensions,Spider-Man,0.34150943396226413,
+Disney Princess,Star Wars Episode 1,0.3406432748538012,
+SpongeBob SquarePants,Star Wars,0.3383647798742138,
+The Fellowship of the Ring,Elves,0.3362637362637363,The Lord of the Rings
+Guardians of the Galaxy,Ninjago,0.3344788087056128,Super Heroes
+Guardians of the Galaxy,Batman,0.3313953488372093,Super Heroes
+Pharaoh's Quest,Avengers,0.33079847908745247,
+Guardians of the Galaxy,Star Wars Episode 4/5/6,0.33060109289617484,Super Heroes
+Justice League,Star Wars Episode 4/5/6,0.3304964539007092,Super Heroes
+The Two Towers,Star Wars Clone Wars,0.32978723404255317,The Lord of the Rings
+Ultimate Collector Series,Star Wars,0.32938076416337286,Batman
+An Unexpected Journey,Star Wars Episode 3,0.3290676416819013,The Hobbit
+SpongeBob SquarePants,Batman,0.32878270762229805,
+Minecraft,Star Wars Episode 2,0.32867132867132864,
+Minecraft,The LEGO Movie,0.3283582089552239,
+The Fellowship of the Ring,Teenage Mutant Ninja Turtles,0.3270440251572327,The Lord of the Rings
+Disney Princess,Star Wars,0.32598039215686275,
+The Return of the King,Teenage Mutant Ninja Turtles,0.3259109311740891,The Lord of the Rings
+The Two Towers,Star Wars Episode 4/5/6,0.32471264367816094,The Lord of the Rings
+Harry Potter,Batman,0.32413793103448274,
+Disney Princess,Ninjago,0.3238199780461032,
+Sorcerer's Stone,SpongeBob SquarePants,0.3230769230769231,Harry Potter
+An Unexpected Journey,The LEGO Movie,0.3225806451612903,The Hobbit
+Dimensions,Avengers,0.32222222222222224,
+SpongeBob SquarePants,Ninjago,0.32146829810901,
+Disney Princess,Star Wars Clone Wars,0.32060027285129605,
+Disney Princess,Batman,0.3192436040044494,
+The Battle of the Five Armies,Star Wars Episode 1,0.31871838111298484,The Hobbit
+Fantasy Era,Star Wars,0.3181818181818182,Castle
+The Return of the King,Avengers,0.31773879142300193,The Lord of the Rings
+Toy Story,Batman,0.31682027649769584,
+Toy Story,Star Wars,0.31518987341772153,
+Harry Potter,Star Wars,0.31493099121706397,
+Prince of Persia,Pirates of the Caribbean,0.314214463840399,
+Toy Story,Ninjago,0.3126410835214447,
+Superman,The LEGO Movie,0.3122866894197952,Super Heroes
+An Unexpected Journey,Star Wars Episode 1,0.31208053691275167,The Hobbit
+Justice League,Batman,0.3108747044917258,Super Heroes
+Justice League,Ninjago,0.30974477958236657,Super Heroes
+Fantasy Era,Ninjago,0.3094170403587444,Castle
+Ultimate Collector Series,Batman,0.30941176470588233,Batman
+Fantasy Era,Batman,0.3090079817559863,Castle
+Disney,Star Wars Episode 1,0.3088,
+Pharaoh's Quest,Star Wars Episode 1,0.3087248322147651,
+The Two Towers,Star Wars,0.30647291941875826,The Lord of the Rings
+Harry Potter,Ninjago,0.303670745272525,
+Minecraft,Star Wars Episode 1,0.30307941653160453,
+Pharaoh's Quest,Star Wars Episode 2,0.30265486725663715,
+Ultimate Collector Series,Ninjago,0.3008036739380023,Batman
+The Return of the King,The LEGO Movie,0.3005181347150259,The Lord of the Rings
+The Two Towers,Ninjago,0.3002336448598131,The Lord of the Rings
+Disney Princess,Star Wars Episode 4/5/6,0.29961587708066584,
+Dimensions,The LEGO Movie,0.2967213114754098,
+The Desolation of Smaug,The LEGO Movie,0.2951388888888889,The Hobbit
+Pharaoh's Quest,The LEGO Movie,0.295,
+Minecraft,Star Wars Clone Wars,0.2934947049924357,
+The Battle of the Five Armies,Star Wars Clone Wars,0.29347826086956524,The Hobbit
+Iron Man,Avengers,0.2934131736526946,Super Heroes
+The Two Towers,Batman,0.29043683589138136,The Lord of the Rings
+Disney,Star Wars,0.28833551769331583,
+Superman,Star Wars Episode 1,0.2866666666666667,Super Heroes
+Disney,Star Wars Episode 4/5/6,0.28651685393258425,
+The Return of the King,Star Wars Episode 1,0.2857142857142857,The Lord of the Rings
+Disney,Ninjago,0.2842227378190255,
+An Unexpected Journey,Star Wars Clone Wars,0.2835130970724191,The Hobbit
+Chamber of Secrets,Spider-Man,0.2832699619771863,Harry Potter
+Pharaoh's Quest,Star Wars Clone Wars,0.2824074074074074,
+Minecraft,Star Wars,0.28174603174603174,
+The Battle of the Five Armies,Star Wars Episode 4/5/6,0.27906976744186046,The Hobbit
+Superman,Star Wars Clone Wars,0.2779503105590062,Super Heroes
+Order of the Phoenix,Fantasy Era,0.27627627627627627,Harry Potter
+An Unexpected Journey,Star Wars Episode 4/5/6,0.2753623188405797,The Hobbit
+Order of the Phoenix,SpongeBob SquarePants,0.27507163323782235,Harry Potter
+Disney,Batman,0.27432590855803046,
+The Desolation of Smaug,Star Wars Episode 1,0.27380952380952384,The Hobbit
+The Fellowship of the Ring,The LEGO Movie,0.2735191637630662,The Lord of the Rings
+The Battle of the Five Armies,Star Wars,0.2728494623655914,The Hobbit
+Minecraft,Star Wars Episode 4/5/6,0.27221438645980256,
+Goblet of Fire,Star Wars Episode 3,0.27102803738317754,Harry Potter
+Prisoner of Azkaban,Star Wars Episode 1,0.2692307692307692,Harry Potter
+Pharaoh's Quest,Star Wars Episode 4/5/6,0.26878612716763006,
+Ultimate Collector Series,Star Wars Episode 3,0.2676864244741874,Star Wars
+Ultimate Collector Series,Star Wars Episode 2,0.2669172932330827,Star Wars
+Chamber of Secrets,Star Wars Episode 2,0.26595744680851063,Harry Potter
+Iron Man,Star Wars Episode 2,0.2643253234750462,Super Heroes
+Goblet of Fire,Star Wars Episode 2,0.263254113345521,Harry Potter
+Prisoner of Azkaban,Star Wars Episode 2,0.26325088339222613,Harry Potter
+Minecraft,Batman,0.26235294117647057,
+Minecraft,Ninjago,0.26212471131639725,
+The Return of the King,Star Wars Clone Wars,0.2589703588143526,The Lord of the Rings
+Iron Man,The LEGO Movie,0.2564991334488735,Super Heroes
+An Unexpected Journey,Star Wars,0.25596816976127323,The Hobbit
+Goblet of Fire,Star Wars Episode 1,0.25426621160409557,Harry Potter
+The Desolation of Smaug,Star Wars Clone Wars,0.25391849529780564,The Hobbit
+Prisoner of Azkaban,Star Wars Clone Wars,0.25386996904024767,Harry Potter
+Chamber of Secrets,Star Wars Episode 1,0.2528925619834711,Harry Potter
+The Battle of the Five Armies,Ninjago,0.25263157894736843,The Hobbit
+The Return of the King,Star Wars Episode 4/5/6,0.25219941348973607,The Lord of the Rings
+The Battle of the Five Armies,Batman,0.2511904761904762,The Hobbit
+Avatar,Teenage Mutant Ninja Turtles,0.25101214574898784,
+Ultimate Collector Series,Star Wars Episode 1,0.2508710801393728,Star Wars
+Dimensions,Batman,0.25058823529411767,
+Dimensions,Star Wars,0.2503259452411995,
+An Unexpected Journey,Ninjago,0.24970828471411902,The Hobbit
+Iron Man,Star Wars Episode 1,0.24871355060034306,Super Heroes
+An Unexpected Journey,Batman,0.24821852731591448,The Hobbit
+Superman,Star Wars Episode 4/5/6,0.24820659971305595,Super Heroes
+Chamber of Secrets,The LEGO Movie,0.24793388429752067,Harry Potter
+X-Men,Avengers,0.24696356275303644,Super Heroes
+Dimensions,Ninjago,0.24626006904487918,
+Superman,Batman,0.2452153110047847,Super Heroes
+Avatar,Star Wars Episode 3,0.24344569288389514,
+Superman,Star Wars,0.2427055702917772,Super Heroes
+The Fellowship of the Ring,Star Wars Clone Wars,0.24208860759493672,The Lord of the Rings
+Pharaoh's Quest,Star Wars,0.24178712220762155,
+Pharaoh's Quest,Batman,0.24142011834319527,
+Dimensions,Star Wars Episode 4/5/6,0.24061196105702365,
+Ultimate Collector Series,Star Wars Clone Wars,0.2403225806451613,Star Wars
+The Desolation of Smaug,Star Wars Episode 4/5/6,0.24011713030746706,The Hobbit
+Ultimate Collector Series,The LEGO Movie,0.2391681109185442,Star Wars
+Prisoner of Azkaban,Star Wars Episode 4/5/6,0.2384393063583815,Harry Potter
+The Return of the King,Star Wars,0.23790322580645162,The Lord of the Rings
+Iron Man,Star Wars Clone Wars,0.2365079365079365,Super Heroes
+Avatar,Star Wars Episode 2,0.23626373626373626,
+Goblet of Fire,Star Wars Clone Wars,0.2358490566037736,Harry Potter
+Pharaoh's Quest,Ninjago,0.23583815028901733,
+Ghostbusters,Super Heroes,0.23370786516853934,
+Chamber of Secrets,Star Wars Clone Wars,0.23323170731707318,Harry Potter
+Star Wars Episode 3,Star Wars Episode 3,0.23210831721470018,Ultimate Collector Series
+Star Wars Episode 2,Star Wars Episode 3,0.23196881091617932,Ultimate Collector Series
+The Desolation of Smaug,Star Wars,0.23180592991913745,The Hobbit
+Star Wars Episode 2,Avengers,0.22874493927125505,Ultimate Collector Series
+Goblet of Fire,Star Wars Episode 4/5/6,0.22861356932153393,Harry Potter
+Chamber of Secrets,Star Wars Episode 4/5/6,0.22812051649928264,Harry Potter
+The Fellowship of the Ring,Star Wars Episode 4/5/6,0.22713864306784662,The Lord of the Rings
+Star Wars Episode 2,Star Wars Episode 2,0.22709923664122136,Ultimate Collector Series
+Avatar,Star Wars Episode 1,0.22696245733788395,
+Superman,Ninjago,0.22658959537572254,Super Heroes
+Ultimate Collector Series,Star Wars Episode 4/5/6,0.22338830584707647,Star Wars
+Prince of Persia,The LEGO Movie,0.22338568935427575,
+The Return of the King,Batman,0.22315035799522673,The Lord of the Rings
+Iron Man,Star Wars Episode 4/5/6,0.22189349112426035,Super Heroes
+Star Wars Episode 4/5/6,Spider-Man,0.22131147540983606,Mini
+The Return of the King,Ninjago,0.2193698949824971,The Lord of the Rings
+Star Wars Episode 4/5/6,Star Wars Episode 3,0.21875,Mini
+Star Wars,Star Wars Episode 3,0.2164750957854406,Advent Sub-Set
+The Desolation of Smaug,Batman,0.2162485065710872,The Hobbit
+Prince of Persia,Star Wars Episode 1,0.2158894645941278,
+Ghostbusters,Star Wars Rebels,0.21505376344086022,
+Sorcerer's Stone,Star Wars Episode 2,0.21503496503496503,Harry Potter
+Avatar,Star Wars Clone Wars,0.21451104100946372,
+Star Wars,Star Wars Episode 2,0.21428571428571427,Advent Sub-Set
+Star Wars Episode 4/5/6,Star Wars Episode 2,0.21414913957934992,Mini
+Star Wars Episode 3,Star Wars Episode 2,0.21348314606741572,Ultimate Collector Series
+The Desolation of Smaug,Ninjago,0.21120186697782964,The Hobbit
+Star Wars Episode 2,Star Wars Episode 1,0.20950704225352113,Ultimate Collector Series
+The Fellowship of the Ring,Star Wars,0.20833333333333334,The Lord of the Rings
+Sorcerer's Stone,Star Wars Episode 1,0.20751633986928106,Harry Potter
+X-Men,Star Wars Episode 3,0.2071563088512241,Super Heroes
+Iron Man,Star Wars,0.20675675675675675,Super Heroes
+Star Wars,Star Wars Episode 1,0.2062937062937063,Advent Sub-Set
+Ultimate Collector Series,Star Wars,0.2062841530054645,Star Wars
+Star Wars Episode 4/5/6,Star Wars Episode 1,0.20603907637655416,Mini
+Chamber of Secrets,Batman,0.20539906103286384,Harry Potter
+Prisoner of Azkaban,Batman,0.20374707259953162,Harry Potter
+Ghostbusters,Avengers,0.20362903225806453,
+X-Men,Star Wars Episode 2,0.2029520295202952,Super Heroes
+X-Men,Star Wars Episode 1,0.20207253886010362,Super Heroes
+Goblet of Fire,Star Wars,0.20160213618157544,Harry Potter
+Avatar,Star Wars Episode 4/5/6,0.20147058823529412,
+Star Wars Episode 3,Star Wars Episode 1,0.2013888888888889,Ultimate Collector Series
+X-Men,The LEGO Movie,0.20103986135181975,Super Heroes
+Star Wars Episode 3,Spider-Man,0.20041322314049587,Mini
+Prince of Persia,Star Wars Clone Wars,0.20031796502384738,
+Disney,The Simpsons,0.2,Collectible Minifigures
+Prisoner of Azkaban,Star Wars,0.2,Harry Potter
+The Fellowship of the Ring,Ninjago,0.19929660023446658,The Lord of the Rings
+Star Wars Episode 3,Avengers,0.19917864476386038,Mini
+Star Wars,The LEGO Movie,0.19895287958115182,Advent Sub-Set
+Chamber of Secrets,Star Wars,0.1987012987012987,Harry Potter
+Star Wars Episode 3,Star Wars Clone Wars,0.19838709677419356,Ultimate Collector Series
+The Fellowship of the Ring,Batman,0.1983273596176822,The Lord of the Rings
+Star Wars Episode 2,Star Wars Clone Wars,0.19805194805194806,Ultimate Collector Series
+Star Wars Episode 2,The LEGO Movie,0.1978984238178634,Ultimate Collector Series
+Star Wars,Star Wars Clone Wars,0.19516129032258064,Advent Sub-Set
+Star Wars Episode 4/5/6,The LEGO Movie,0.19434628975265017,Mini
+Iron Man,Batman,0.19401197604790418,Super Heroes
+X-Men,Star Wars Clone Wars,0.19329073482428116,Super Heroes
+Prisoner of Azkaban,Ninjago,0.19226393629124006,Harry Potter
+Goblet of Fire,Batman,0.1895734597156398,Harry Potter
+Star Wars Episode 3,Star Wars Episode 3,0.189453125,Mini
+Sorcerer's Stone,Star Wars Episode 4/5/6,0.18892045454545456,Harry Potter
+Iron Man,Ninjago,0.1866977829638273,Super Heroes
+Prince of Persia,Star Wars Episode 4/5/6,0.1863905325443787,
+Star Wars Episode 3,Star Wars Episode 2,0.18546845124282982,Mini
+Star Wars Expanded Universe,Star Wars Rogue One,0.18508997429305912,Star Wars
+Sorcerer's Stone,Star Wars Clone Wars,0.18440779610194902,Harry Potter
+Star Wars Episode 3,Star Wars Episode 4/5/6,0.18440779610194902,Ultimate Collector Series
+Chamber of Secrets,Ninjago,0.18438914027149322,Harry Potter
+Goblet of Fire,Ninjago,0.1838150289017341,Harry Potter
+Avatar,Star Wars,0.18181818181818182,
+Star Wars Episode 3,The LEGO Movie,0.18181818181818182,Ultimate Collector Series
+Star Wars Episode 3,Star Wars Episode 1,0.18149466192170818,Mini
+Ultimate Collector Series,Batman,0.180622009569378,Star Wars
+Star Wars Episode 2,Star Wars Episode 4/5/6,0.18045112781954886,Ultimate Collector Series
+Star Wars,Star Wars Episode 4/5/6,0.17964071856287425,Advent Sub-Set
+Star Wars Episode 3,The LEGO Movie,0.17825311942959002,Mini
+Star Wars Episode 4/5/6,Star Wars Episode 4/5/6,0.17727272727272728,Mini
+Ultimate Collector Series,Ninjago,0.1764018691588785,Star Wars
+Star Wars,Star Wars Episode 3,0.17518248175182483,Mindstorms
+Ghostbusters,The LEGO Movie,0.17421602787456447,
+Avatar,Batman,0.17339667458432304,
+Prince of Persia,Star Wars,0.17273954116059378,
+X-Men,Star Wars Episode 4/5/6,0.16936671575846834,Super Heroes
+Star Wars Clone Wars,Teenage Mutant Ninja Turtles,0.16916488222698073,Mini
+Star Wars Episode 3,Star Wars,0.167574931880109,Ultimate Collector Series
+X-Men,Star Wars,0.16666666666666666,Super Heroes
+Star Wars,Star Wars,0.1664392905866303,Advent Sub-Set
+Star Wars Episode 2,Star Wars,0.16552667578659372,Ultimate Collector Series
+Order of the Phoenix,Star Wars Episode 1,0.16376306620209058,Harry Potter
+Star Wars Expanded Universe,Star Wars Rebels,0.16335540838852097,Star Wars
+Star Wars Episode 2,Teenage Mutant Ninja Turtles,0.1630901287553648,Mini
+Star Wars Episode 3,Star Wars Clone Wars,0.16260162601626016,Mini
+Order of the Phoenix,The LEGO Movie,0.16258741258741258,Harry Potter
+Avatar,Ninjago,0.16129032258064516,
+Star Wars Clone Wars,Spider-Man,0.16049382716049382,Mini
+Star Wars Episode 2,Spider-Man,0.15942028985507245,Mini
+Star Wars,Star Wars Episode 2,0.1592920353982301,Mindstorms
+Prince of Persia,Ninjago,0.15869311551925322,
+Sorcerer's Stone,Batman,0.15862068965517243,Harry Potter
+Star Wars Clone Wars,Star Wars Episode 3,0.15851272015655576,Mini
+Prince of Persia,Batman,0.15695600475624258,
+Star Wars Episode 4/5/6,Star Wars,0.15616438356164383,Mini
+Star Wars Episode 2,Star Wars Episode 3,0.15520628683693516,Mini
+Star Wars Clone Wars,Star Wars Episode 2,0.15517241379310345,Mini
+Star Wars,Star Wars,0.15508021390374332,Mindstorms
+Star Wars,Star Wars Clone Wars,0.15384615384615385,Mindstorms
+Star Wars,Star Wars Episode 4/5/6,0.15340086830680175,Mindstorms
+X-Men,Ninjago,0.15204678362573099,Super Heroes
+Star Wars Episode 2,Star Wars Episode 2,0.1519230769230769,Mini
+Ghostbusters,Star Wars Clone Wars,0.1518987341772152,
+X-Men,Batman,0.1515513126491647,Super Heroes
+Star Wars,Super Heroes,0.1506849315068493,Advent
+Order of the Phoenix,Star Wars Clone Wars,0.1504,Harry Potter
+Star Wars Expanded Universe,Avengers,0.15020576131687244,Star Wars
+Star Wars,Star Wars Episode 1,0.14967105263157895,Mindstorms
+Star Wars Episode 3,Star Wars Episode 4/5/6,0.1493212669683258,Mini
+Star Wars Expanded Universe,Spider-Man,0.1487603305785124,Star Wars
+Star Wars Episode 2,Batman,0.14628297362110312,Ultimate Collector Series
+Sorcerer's Stone,Ninjago,0.14604236343366778,Harry Potter
+Star Wars Clone Wars,The LEGO Movie,0.14590747330960854,Mini
+Star Wars Episode 2,Ninjago,0.14553990610328638,Ultimate Collector Series
+Star Wars Episode 3,Batman,0.14541120381406436,Ultimate Collector Series
+Star Wars Clone Wars,Star Wars Episode 1,0.14513274336283186,Mini
+Star Wars Expanded Universe,Star Wars Episode 3,0.1450980392156863,Star Wars
+Star Wars Episode 2,Star Wars Episode 1,0.14412811387900357,Mini
+Star Wars,Ninjago,0.14369158878504673,Advent Sub-Set
+Ghostbusters,Star Wars Episode 4/5/6,0.1430678466076696,
+Star Wars,Batman,0.1430274135876043,Advent Sub-Set
+Star Wars,Star Wars Rebels,0.14285714285714285,Advent
+Ghostbusters,Star Wars,0.14246947082767977,
+Star Wars Episode 3,Ninjago,0.1420256111757858,Ultimate Collector Series
+Star Wars Episode 3,Star Wars,0.13873626373626374,Mini
+The Lord of the Rings,Star Wars,0.13846153846153847,The Hobbit and Lord of the Rings
+Order of the Phoenix,Star Wars Episode 4/5/6,0.13818722139673106,Harry Potter
+Star Wars Expanded Universe,Star Wars Episode 2,0.13766730401529637,Star Wars
+Star Wars,The LEGO Movie,0.13725490196078433,Mindstorms
+Star Wars Episode 4/5/6,Batman,0.1366906474820144,Mini
+Star Wars,Avengers,0.13580246913580246,Advent
+Star Wars Clone Wars,Star Wars Clone Wars,0.13495934959349593,Mini
+Star Wars Episode 4/5/6,Ninjago,0.13348946135831383,Mini
+Star Wars Expanded Universe,Star Wars Episode 1,0.13297872340425532,Star Wars
+Ghostbusters,Batman,0.13293413173652693,
+Star Wars Episode 2,Star Wars Clone Wars,0.13029315960912052,Mini
+Star Wars Clone Wars,Star Wars Episode 4/5/6,0.12878787878787878,Mini
+Ghostbusters,Ninjago,0.12850467289719625,
+Star Wars Expanded Universe,The LEGO Movie,0.1276595744680851,Star Wars
+Star Wars Episode 1,Star Wars Rebels,0.12582781456953643,Mini
+Order of the Phoenix,Star Wars,0.12567567567567567,Harry Potter
+Star Wars Expanded Universe,Star Wars Clone Wars,0.1237785016286645,Star Wars
+Star Wars Episode 3,Batman,0.12274368231046931,Mini
+Star Wars Episode 2,Star Wars Episode 4/5/6,0.12272727272727273,Mini
+Star Wars,The LEGO Movie,0.12121212121212122,Advent
+Star Wars Episode 4/5/6,Star Wars Rebels,0.11868131868131868,Planet Series 4
+Star Wars Episode 1,Spider-Man,0.11825726141078838,Mini
+Star Wars Episode 1,Star Wars Rebels,0.11688311688311688,Ultimate Collector Series
+Star Wars Episode 4/5/6,Spider-Man,0.11618257261410789,Planet Series 4
+Order of the Phoenix,Ninjago,0.11538461538461539,Harry Potter
+Star Wars Clone Wars,Star Wars,0.11538461538461539,Mini
+Star Wars Episode 1,Avengers,0.11522633744855967,Mini
+Star Wars,Batman,0.1152073732718894,Mindstorms
+Star Wars Expanded Universe,Star Wars Episode 4/5/6,0.11497730711043873,Star Wars
+Star Wars,Star Wars Episode 1,0.1146384479717813,Advent
+Order of the Phoenix,Batman,0.11414982164090369,Harry Potter
+Star Wars Episode 1,Star Wars Episode 3,0.11262135922330097,Ultimate Collector Series
+Star Wars,Ninjago,0.11136107986501688,Mindstorms
+Star Wars Episode 4/5/6,Avengers,0.11088295687885011,Planet Series 4
+Star Wars Episode 1,Star Wars Episode 2,0.10815939278937381,Ultimate Collector Series
+Star Wars Episode 1,Star Wars Episode 1,0.10758377425044091,Ultimate Collector Series
+Star Wars Episode 1,Star Wars Episode 2,0.10727969348659004,Mini
+Star Wars Episode 4/5/6,Star Wars Episode 2,0.1053639846743295,Planet Series 4
+Star Wars Episode 1,The LEGO Movie,0.10535714285714286,Mini
+Star Wars Episode 2,Star Wars,0.10533515731874145,Mini
+Star Wars,Star Wars Clone Wars,0.10517799352750809,Advent
+Star Wars Clone Wars,Batman,0.1022864019253911,Mini
+Star Wars Episode 4/5/6,The LEGO Movie,0.10160427807486631,Planet Series 4
+Star Wars,Star Wars Episode 4/5/6,0.09939759036144578,Advent
+Star Wars Episode 1,Star Wars Episode 1,0.0989399293286219,Mini
+Star Wars Episode 1,Star Wars Clone Wars,0.09870550161812297,Ultimate Collector Series
+Star Wars Episode 2,Batman,0.09747292418772563,Mini
+Star Wars Episode 1,Star Wars Episode 4/5/6,0.09502262443438914,Ultimate Collector Series
+Star Wars,Star Wars,0.09478021978021978,Advent
+Star Wars Episode 1,Star Wars Clone Wars,0.0943089430894309,Mini
+Star Wars Episode 2,Ninjago,0.09261430246189918,Mini
+Star Wars Expanded Universe,Batman,0.09134615384615384,Star Wars
+Star Wars Episode 1,Star Wars Episode 4/5/6,0.08925869894099848,Mini
+The Lord of the Rings,The Return of the King,0.08629441624365482,The Hobbit and Lord of the Rings
+Star Wars Episode 1,Star Wars,0.08481532147742818,Ultimate Collector Series
+Star Wars,Batman,0.0829326923076923,Advent
+Star Wars Episode 4/5/6,Star Wars Episode 4/5/6,0.08283132530120482,Planet Series 4
+Star Wars,Ninjago,0.08225616921269095,Advent
+Star Wars Episode 4/5/6,Star Wars,0.07818930041152264,Planet Series 4
+Disney's Mickey Mouse,Fantasy Era,0.07520891364902507,
+Disney's Mickey Mouse,Harry Potter,0.0743801652892562,
+Star Wars Episode 1,Batman,0.07220216606498195,Mini
+Star Wars Episode 1,Batman,0.07168458781362007,Ultimate Collector Series
+Star Wars Episode 4/5/6,Ninjago,0.06933019976498238,Planet Series 4
+Star Wars Episode 1,Ninjago,0.06924882629107981,Mini
+Star Wars Episode 4/5/6,Batman,0.06842737094837935,Planet Series 4
+Star Wars Episode 1,Ninjago,0.06752037252619325,Ultimate Collector Series
+Disney's Mickey Mouse,Monster Fighters,0.06419753086419754,
+The Lord of the Rings,Fantasy Era,0.053125,The Hobbit and Lord of the Rings
+Disney's Mickey Mouse,Teenage Mutant Ninja Turtles,0.05179282868525897,
+Disney's Mickey Mouse,Spider-Man,0.05,
+The Lord of the Rings,SpongeBob SquarePants,0.05,The Hobbit and Lord of the Rings
+The Lord of the Rings,Monster Fighters,0.04945054945054945,The Hobbit and Lord of the Rings
+Disney's Mickey Mouse,The LEGO Movie,0.048576214405360134,
+Disney's Mickey Mouse,Star Wars Episode 3,0.04744525547445255,
+Disney's Mickey Mouse,Star Wars Episode 1,0.04658901830282862,
+The Lord of the Rings,Pirates of the Caribbean,0.04404145077720207,The Hobbit and Lord of the Rings
+Disney's Mickey Mouse,Star Wars Episode 4/5/6,0.041811846689895474,
+Disney's Mickey Mouse,Batman,0.03935185185185185,
+Disney's Mickey Mouse,Star Wars,0.03790849673202614,
+The Lord of the Rings,Spider-Man,0.037578288100208766,The Hobbit and Lord of the Rings
+Disney's Mickey Mouse,Ninjago,0.033783783783783786,
+The Lord of the Rings,Star Wars Episode 3,0.03346456692913386,The Hobbit and Lord of the Rings
+The Lord of the Rings,Star Wars Episode 2,0.03275529865125241,The Hobbit and Lord of the Rings
+The Simpsons,Star Wars Episode 4/5/6,0.03225806451612903,Collectible Minifigures
+The Lord of the Rings,Star Wars Episode 1,0.03202846975088968,The Hobbit and Lord of the Rings
+The Lord of the Rings,Star Wars Clone Wars,0.02936378466557912,The Hobbit and Lord of the Rings
+The Lord of the Rings,Star Wars Episode 4/5/6,0.02727272727272727,The Hobbit and Lord of the Rings
+The Simpsons,Star Wars Expanded Universe,0.025,Collectible Minifigures
+The Simpsons,Ghostbusters,0.01694915254237288,Collectible Minifigures
+Disney,Star Wars Episode 4/5/6,0.01639344262295082,Collectible Minifigures
+Disney,Star Wars Episode 1,0.016129032258064516,Collectible Minifigures
+Disney,Star Wars,0.013888888888888888,Collectible Minifigures
+Disney,Star Wars Expanded Universe,0.012658227848101266,Collectible Minifigures
+The Simpsons,Disney,0.011627906976744186,Collectible Minifigures
+The Simpsons,The Fellowship of the Ring,0.011428571428571429,Collectible Minifigures
+The Simpsons,Sorcerer's Stone,0.011111111111111112,Collectible Minifigures
+The Simpsons,The Desolation of Smaug,0.010526315789473684,Collectible Minifigures
+The Simpsons,The Return of the King,0.01015228426395939,Collectible Minifigures
+Disney,Order of the Phoenix,0.009259259259259259,Collectible Minifigures
+The Simpsons,Pharaoh's Quest,0.00904977375565611,Collectible Minifigures
+The Simpsons,An Unexpected Journey,0.008968609865470852,Collectible Minifigures
+The Simpsons,The Battle of the Five Armies,0.008968609865470852,Collectible Minifigures
+Disney,Ghostbusters,0.008547008547008548,Collectible Minifigures
+The Simpsons,Dimensions,0.00851063829787234,Collectible Minifigures
+The Simpsons,Disney Princess,0.008403361344537815,Collectible Minifigures
+The Simpsons,Star Wars Rogue One,0.0078125,Collectible Minifigures
+The Simpsons,The Two Towers,0.007547169811320755,Collectible Minifigures
+The Simpsons,Ultimate Collector Series,0.007017543859649123,Collectible Minifigures
+Disney,Prince of Persia,0.006944444444444444,Collectible Minifigures
+The Simpsons,Star Wars Rebels,0.006666666666666667,Collectible Minifigures
+Disney,Ultimate Collector Series,0.006329113924050633,Collectible Minifigures
+The Simpsons,Spider-Man,0.006263048016701462,Collectible Minifigures
+The Simpsons,Avengers,0.006224066390041493,Collectible Minifigures
+The Simpsons,Harry Potter,0.006172839506172839,Collectible Minifigures
+Disney,Iron Man,0.005952380952380952,Collectible Minifigures
+The Simpsons,Star Wars Episode 3,0.005917159763313609,Collectible Minifigures
+The Simpsons,SpongeBob SquarePants,0.0058823529411764705,Collectible Minifigures
+Disney,The Fellowship of the Ring,0.005747126436781609,Collectible Minifigures
+Disney,Goblet of Fire,0.005714285714285714,Collectible Minifigures
+The Simpsons,Star Wars Episode 7,0.0056179775280898875,Collectible Minifigures
+Disney,Sorcerer's Stone,0.00558659217877095,Collectible Minifigures
+Disney,The Desolation of Smaug,0.005291005291005291,Collectible Minifigures
+The Simpsons,Pirates of the Caribbean,0.0051813471502590676,Collectible Minifigures
+Disney,The Return of the King,0.00510204081632653,Collectible Minifigures
+Disney,Chamber of Secrets,0.005050505050505051,Collectible Minifigures
+Disney,Prisoner of Azkaban,0.005025125628140704,Collectible Minifigures
+The Simpsons,Super Heroes,0.004597701149425287,Collectible Minifigures
+The Simpsons,Elves,0.004576659038901602,Collectible Minifigures
+Disney,An Unexpected Journey,0.0045045045045045045,Collectible Minifigures
+Disney,The Battle of the Five Armies,0.0045045045045045045,Collectible Minifigures
+The Simpsons,Teenage Mutant Ninja Turtles,0.004329004329004329,Collectible Minifigures
+Disney,Dimensions,0.004273504273504274,Collectible Minifigures
+Disney,Minecraft,0.004098360655737705,Collectible Minifigures
+The Simpsons,Star Wars Episode 2,0.0038535645472061657,Collectible Minifigures
+Disney,The Two Towers,0.003787878787878788,Collectible Minifigures
+Disney,Justice League,0.0035714285714285713,Collectible Minifigures
+The Simpsons,The LEGO Movie,0.0035714285714285713,Collectible Minifigures
+Disney,Toy Story,0.0031847133757961785,Collectible Minifigures
+Disney,Guardians of the Galaxy,0.0031645569620253164,Collectible Minifigures
+Disney,Fantasy Era,0.003134796238244514,Collectible Minifigures
+Disney,Harry Potter,0.0030959752321981426,Collectible Minifigures
+Disney,SpongeBob SquarePants,0.0029498525073746312,Collectible Minifigures
+Disney,Star Wars Episode 7,0.0028169014084507044,Collectible Minifigures
+Disney,Disney Princess,0.0028011204481792717,Collectible Minifigures
+Disney,Monster Fighters,0.0027472527472527475,Collectible Minifigures
+Disney,Pirates of the Caribbean,0.0025974025974025974,Collectible Minifigures
+Disney,Super Heroes,0.002304147465437788,Collectible Minifigures
+Disney,Elves,0.0022935779816513763,Collectible Minifigures
+Disney,Teenage Mutant Ninja Turtles,0.0021691973969631237,Collectible Minifigures
+Disney,Spider-Man,0.0020876826722338203,Collectible Minifigures
+Disney,Star Wars Episode 2,0.0019305019305019305,Collectible Minifigures
+Disney,The LEGO Movie,0.0017889087656529517,Collectible Minifigures
+Disney,Star Wars Clone Wars,0.0016313213703099511,Collectible Minifigures

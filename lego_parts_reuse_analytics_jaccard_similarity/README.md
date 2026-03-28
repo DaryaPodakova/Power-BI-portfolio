@@ -13,6 +13,12 @@
 
 Демо-визуализация проекта: :contentReference[oaicite:0]{index=0}
 
+
+## Визуализация проекта
+
+![LEGO Dashboard 1](images/lego1.png)
+![LEGO Dashboard 2](images/lego2.png)
+![LEGO Dashboard 3](images/lego3.png)
 ---
 
 ## Методика

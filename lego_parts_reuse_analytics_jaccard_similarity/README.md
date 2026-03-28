@@ -11,14 +11,14 @@
 - графа пересечений между темами
 - выявления центральных «узлов» (например, Batman как наиболее универсальная тема)
 
-Демо-визуализация проекта: :contentReference[oaicite:0]{index=0}
+Демо-визуализация проекта:  https://daryapodakova.github.io/BI-portfolio/lego_batman.html 
 
 
 ## Визуализация проекта
 
-![LEGO Dashboard 1](images/lego1.png)
-![LEGO Dashboard 2](images/lego2.png)
-![LEGO Dashboard 3](images/lego3.png)
+![LEGO Dashboard 1](lego1.png)
+![LEGO Dashboard 2](lego2.png)
+![LEGO Dashboard 3](lego3.png)
 ---
 
 ## Методика

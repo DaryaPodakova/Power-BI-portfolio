@@ -37,8 +37,8 @@ Power BI, CSV
 
 ## Визуализация
 
-![Logistics Dashboard 1](images/logistic_1.png)
-![Logistics Dashboard 2](images/logistic_2.png)
+![Logistics Dashboard 1](logistic_1.png)
+![Logistics Dashboard 2](logistic_2.png)
 
 
 
@@ -110,5 +110,5 @@ Total SWOT = Strengths − Weaknesses + Opportunities − Threats
 
 ## SWOT Визуализация
 
-![SWOT Overview](images/SWOT.png)
-![SWOT Matrix](images/SWOT_2.png)
+![SWOT Overview](SWOT.png)
+![SWOT Matrix](SWOT_2.png)
